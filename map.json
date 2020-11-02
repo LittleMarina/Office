@@ -117,6 +117,12 @@
          "id":10,
          "name":"Walls",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":false
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":56,
@@ -182,7 +188,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }]
                 }],
          "tilewidth":32
