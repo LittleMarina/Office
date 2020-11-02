@@ -167,6 +167,15 @@
                          "type":"bool",
                          "value":false
                         }]
+                }, 
+                {
+                 "id":37,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }],
          "tilewidth":32
         }, 
@@ -184,6 +193,15 @@
          "tiles":[
                 {
                  "id":0,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":37,
                  "properties":[
                         {
                          "name":"collides",
@@ -213,6 +231,15 @@
                          "type":"bool",
                          "value":false
                         }]
+                }, 
+                {
+                 "id":37,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }],
          "tilewidth":32
         }, 
@@ -227,6 +254,61 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":62,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":78,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":199,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":215,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":231,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":247,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }],
  "tilewidth":32,
